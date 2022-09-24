@@ -1,0 +1,14 @@
+C:\Users\Jalaag\Desktop\New folder\Zer oyunu\Zer oyunu\bin\Debug\netcoreapp3.1\Zer oyunu.exe
+C:\Users\Jalaag\Desktop\New folder\Zer oyunu\Zer oyunu\bin\Debug\netcoreapp3.1\Zer oyunu.deps.json
+C:\Users\Jalaag\Desktop\New folder\Zer oyunu\Zer oyunu\bin\Debug\netcoreapp3.1\Zer oyunu.runtimeconfig.json
+C:\Users\Jalaag\Desktop\New folder\Zer oyunu\Zer oyunu\bin\Debug\netcoreapp3.1\Zer oyunu.runtimeconfig.dev.json
+C:\Users\Jalaag\Desktop\New folder\Zer oyunu\Zer oyunu\bin\Debug\netcoreapp3.1\Zer oyunu.dll
+C:\Users\Jalaag\Desktop\New folder\Zer oyunu\Zer oyunu\bin\Debug\netcoreapp3.1\Zer oyunu.pdb
+C:\Users\Jalaag\Desktop\New folder\Zer oyunu\Zer oyunu\obj\Debug\netcoreapp3.1\Zer oyunu.csproj.AssemblyReference.cache
+C:\Users\Jalaag\Desktop\New folder\Zer oyunu\Zer oyunu\obj\Debug\netcoreapp3.1\Zer oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jalaag\Desktop\New folder\Zer oyunu\Zer oyunu\obj\Debug\netcoreapp3.1\Zer oyunu.AssemblyInfoInputs.cache
+C:\Users\Jalaag\Desktop\New folder\Zer oyunu\Zer oyunu\obj\Debug\netcoreapp3.1\Zer oyunu.AssemblyInfo.cs
+C:\Users\Jalaag\Desktop\New folder\Zer oyunu\Zer oyunu\obj\Debug\netcoreapp3.1\Zer oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Jalaag\Desktop\New folder\Zer oyunu\Zer oyunu\obj\Debug\netcoreapp3.1\Zer oyunu.dll
+C:\Users\Jalaag\Desktop\New folder\Zer oyunu\Zer oyunu\obj\Debug\netcoreapp3.1\Zer oyunu.pdb
+C:\Users\Jalaag\Desktop\New folder\Zer oyunu\Zer oyunu\obj\Debug\netcoreapp3.1\Zer oyunu.genruntimeconfig.cache

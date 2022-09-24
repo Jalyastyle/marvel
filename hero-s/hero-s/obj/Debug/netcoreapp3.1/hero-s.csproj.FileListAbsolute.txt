@@ -1,0 +1,14 @@
+C:\Users\Jalaag\Desktop\New folder\hero-s\hero-s\bin\Debug\netcoreapp3.1\hero-s.exe
+C:\Users\Jalaag\Desktop\New folder\hero-s\hero-s\bin\Debug\netcoreapp3.1\hero-s.deps.json
+C:\Users\Jalaag\Desktop\New folder\hero-s\hero-s\bin\Debug\netcoreapp3.1\hero-s.runtimeconfig.json
+C:\Users\Jalaag\Desktop\New folder\hero-s\hero-s\bin\Debug\netcoreapp3.1\hero-s.runtimeconfig.dev.json
+C:\Users\Jalaag\Desktop\New folder\hero-s\hero-s\bin\Debug\netcoreapp3.1\hero-s.dll
+C:\Users\Jalaag\Desktop\New folder\hero-s\hero-s\bin\Debug\netcoreapp3.1\hero-s.pdb
+C:\Users\Jalaag\Desktop\New folder\hero-s\hero-s\obj\Debug\netcoreapp3.1\hero-s.csproj.AssemblyReference.cache
+C:\Users\Jalaag\Desktop\New folder\hero-s\hero-s\obj\Debug\netcoreapp3.1\hero-s.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jalaag\Desktop\New folder\hero-s\hero-s\obj\Debug\netcoreapp3.1\hero-s.AssemblyInfoInputs.cache
+C:\Users\Jalaag\Desktop\New folder\hero-s\hero-s\obj\Debug\netcoreapp3.1\hero-s.AssemblyInfo.cs
+C:\Users\Jalaag\Desktop\New folder\hero-s\hero-s\obj\Debug\netcoreapp3.1\hero-s.csproj.CoreCompileInputs.cache
+C:\Users\Jalaag\Desktop\New folder\hero-s\hero-s\obj\Debug\netcoreapp3.1\hero-s.dll
+C:\Users\Jalaag\Desktop\New folder\hero-s\hero-s\obj\Debug\netcoreapp3.1\hero-s.pdb
+C:\Users\Jalaag\Desktop\New folder\hero-s\hero-s\obj\Debug\netcoreapp3.1\hero-s.genruntimeconfig.cache

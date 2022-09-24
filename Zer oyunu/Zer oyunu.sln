@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zer oyunu", "Zer oyunu\Zer oyunu.csproj", "{ED68066A-0593-4EA7-AE26-10FC1E4CFDE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED68066A-0593-4EA7-AE26-10FC1E4CFDE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED68066A-0593-4EA7-AE26-10FC1E4CFDE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED68066A-0593-4EA7-AE26-10FC1E4CFDE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED68066A-0593-4EA7-AE26-10FC1E4CFDE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C2DC69F-FD01-4B78-8730-B76D1C480A0D}
+	EndGlobalSection
+EndGlobal
